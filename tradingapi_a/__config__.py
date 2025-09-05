@@ -1,6 +1,6 @@
-API_KEY="1nv9O2r/5dkpPfmZ1O5S2/VBaRZuQKuhfFcrbATLn4Y="
+API_KEY=""
 USER_NAME="MA5136638"
-PWD="K@ran2025"
+PWD=""
 default_root_uri= "https://api.mstock.trade/"
 routes= {
         "login": "openapi/typea/connect/login",
